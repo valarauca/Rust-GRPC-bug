@@ -7,6 +7,3 @@ extern crate futures_cpupool;
 pub mod gateway;
 pub mod gateway_grpc;
 
-fn main() {
-    println!("Hello, world!");
-}
