@@ -18,7 +18,6 @@
 #![allow(unused_imports)]
 #![allow(unused_results)]
 
-use super::grpc;
 
 // interface
 
